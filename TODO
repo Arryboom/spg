@@ -1,0 +1,6 @@
+--+------------------------------------+----------+
+# | Description                        | Priority |
+--+------------------------------------+----------+
+1. Implment key generation by lenth      High
+2. Create scons biuld script             Low
+
